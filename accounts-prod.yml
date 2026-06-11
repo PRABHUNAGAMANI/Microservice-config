@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to eazybytes account related PROD APIs"
   contactDetails:
     name: "PRABHU - PRODUCTION lead"
-    email: "prabhu@eazybytes.com"
+    email: "{cipher}23b6bf383b71181a3a6211f8356b6752ba162da081a67a7e5f4aa15e171f8ed687d049a871ce28c87e8b2ffd66c151c3"
   onCallSupport:
     - "(453) 265-3765"
     - "(236) 734-8371"
