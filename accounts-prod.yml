@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to eazybytes account related PROD APIs"
+  message: "Welcome to eazybytes account related PRODUCTION APIs"
   contactDetails:
     name: "PRABHU - PRODUCTION lead"
     email: "{cipher}23b6bf383b71181a3a6211f8356b6752ba162da081a67a7e5f4aa15e171f8ed687d049a871ce28c87e8b2ffd66c151c3"
